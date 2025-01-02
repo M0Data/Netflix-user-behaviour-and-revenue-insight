@@ -4,6 +4,10 @@ This project analyzes user behavior, subscription trends, and revenue generation
 
 ---
 
+![Furniture Sales Dashboard](https://github.com/M0Data/Netflix-user-behaviour-and-revenue-insight/blob/main/netflix%20visual.PNG?raw=true)
+
+---
+
 ## 📖 **Overview**
 
 This study dives into the patterns of Netflix subscribers, revealing insights into geographical trends, subscription behaviors, and revenue streams. Through collaborative efforts in **SQL analysis** and **Power BI visualization**, the project provides a comprehensive view of key metrics and proposes strategies for growth and sustainability.
