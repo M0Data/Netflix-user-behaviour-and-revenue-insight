@@ -4,7 +4,7 @@ This project analyzes user behavior, subscription trends, and revenue generation
 
 ---
 
-![Furniture Sales Dashboard](https://github.com/M0Data/Netflix-user-behaviour-and-revenue-insight/blob/main/netflix%20visual.PNG?raw=true)
+![Netflix user behaviour Dashboard](https://github.com/M0Data/Netflix-user-behaviour-and-revenue-insight/blob/main/netflix%20dashboard.PNG?raw=true)
 
 ---
 
