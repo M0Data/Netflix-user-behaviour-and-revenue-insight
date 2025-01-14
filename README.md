@@ -1,6 +1,6 @@
-# 🎥 Netflix User Behavior and Revenue Insights  
+#  Netflix User Behavior and Revenue Insights  
 
-This project analyzes user behavior, subscription trends, and revenue generation within a hypothetical Netflix dataset. By leveraging data analysis and visualization techniques, it uncovers actionable insights to improve customer retention and maximize revenue. The final output is an interactive **Power BI dashboard** showcasing critical metrics, including churn rate, retention rate, and monthly revenue.
+This project analyzes user behaviour, subscription trends, and revenue generation within a hypothetical Netflix dataset. By leveraging data analysis and visualization techniques, it uncovers actionable insights to improve customer retention and maximize revenue. The final output is an interactive **Power BI dashboard** showcasing critical metrics, including churn rate, retention rate, and monthly revenue.
 
 ---
 
@@ -8,13 +8,13 @@ This project analyzes user behavior, subscription trends, and revenue generation
 
 ---
 
-## 📖 **Overview**
+##  **Overview**
 
-This study dives into the patterns of Netflix subscribers, revealing insights into geographical trends, subscription behaviors, and revenue streams. Through collaborative efforts in **SQL analysis** and **Power BI visualization**, the project provides a comprehensive view of key metrics and proposes strategies for growth and sustainability.
+This study examines Netflix subscribers' patterns, revealing insights into geographical trends, subscription behaviours, and revenue streams. Through collaborative efforts in SQL analysis and Power BI visualization, the project provides a comprehensive view of key metrics and proposes strategies for growth and sustainability.
 
 ---
 
-## 🔍 **Methods**
+##  **Methods**
 
 ### **Data Sourcing and Cleaning**
 - The dataset was sourced from **Kaggle**.  
@@ -29,7 +29,7 @@ This study dives into the patterns of Netflix subscribers, revealing insights in
 
 ---
 
-## 💡 **Key Findings**
+##  **Key Findings**
 
 ### **Subscribers Overview**
 - **Total Subscribers:** 2,500 active users globally.  
@@ -52,7 +52,7 @@ This study dives into the patterns of Netflix subscribers, revealing insights in
 
 ---
 
-## 📊 **Observations**
+##  **Observations**
 1. Spain and the USA are key markets, requiring sustained focus and tailored strategies.  
 2. Basic plans dominate revenue but face significant churn challenges.  
 3. Laptops and smartphones are the preferred devices for streaming, highlighting the importance of mobile optimization.  
@@ -61,7 +61,7 @@ This study dives into the patterns of Netflix subscribers, revealing insights in
 
 ---
 
-## 🎯 **Recommendations**
+##  **Recommendations**
 
 1. **Retention Strategies for Basic Plans:**  
    - Introduce loyalty programs, exclusive features, or tailored content to reduce churn.  
@@ -76,30 +76,30 @@ This study dives into the patterns of Netflix subscribers, revealing insights in
    - Localize marketing and content for the USA and Spain to reinforce their position as top-performing regions.  
 
 5. **Targeted Marketing for Middle-Aged Users:**  
-   - Develop campaigns that address preferences and behaviors of middle-aged users, who dominate subscriptions.  
+   - Develop campaigns that address the preferences and behaviours of middle-aged users, who dominate subscriptions.  
 
 ---
 
-## 🏁 **Conclusion**
+##  **Conclusion**
 
-This analysis highlights patterns in user behavior, subscription dynamics, and revenue generation within a hypothetical Netflix dataset. By focusing on retention efforts, optimizing the mobile experience, and tailoring marketing to key demographics and markets, Netflix can strengthen its customer base and unlock revenue potential. The collaborative efforts behind this project underscore the value of data-driven strategies in achieving sustainable growth.  
+This analysis highlights patterns in user behaviour, subscription dynamics, and revenue generation within a hypothetical Netflix dataset. By focusing on retention efforts, optimizing the mobile experience, and tailoring marketing to key demographics and markets, Netflix can strengthen its customer base and unlock revenue potential. The collaborative efforts behind this project underscore the value of data-driven strategies in achieving sustainable growth.  
 
 ---
 
-## 🛠️ **Technologies Used**
+## 🛠 **Technologies Used**
 - **Microsoft Excel:** Data cleaning and preparation.  
 - **SQL:** Querying and extracting actionable insights.  
 - **Power BI:** Interactive dashboard creation for visualization.  
 
 ---
 
-## 🤝 **Contributions**
+##  **Contributions**
 - **Ridwan:** Data sourcing and cleaning.  
 - **Moyin:** Team lead, SQL analysis supervision, and Power BI dashboard creation.  
 - **Mr. John:** SQL query execution.  
 
 ---
 
-## 📩 **Contact**
-For questions or collaboration, reach out to **Moyin Odumewu**. Let’s connect and bring data to life!  
+##  **Contact**
+If you have any questions or collaborate, please reach out to **Moyin Odumewu**. Let’s connect and bring data to life!  
 ```
