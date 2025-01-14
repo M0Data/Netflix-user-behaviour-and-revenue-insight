@@ -86,7 +86,7 @@ This analysis highlights patterns in user behaviour, subscription dynamics, and 
 
 ---
 
-## 🛠 **Technologies Used**
+##  **Technologies Used**
 - **Microsoft Excel:** Data cleaning and preparation.  
 - **SQL:** Querying and extracting actionable insights.  
 - **Power BI:** Interactive dashboard creation for visualization.  
